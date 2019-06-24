@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/spamdetector.dir/classifier.cpp.o CMakeFiles/spamdetector.dir/converter.cpp.o CMakeFiles/spamdetector.dir/test_english.cpp.o CMakeFiles/spamdetector.dir/trainning_data.cpp.o  -o spamdetector.exe -Wl,--out-implib,libspamdetector.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="spamdetector"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Mujahid/Desktop/MINOR\ Project/spamdetector/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Mujahid/Desktop/MINOR\ Project/spamdetector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Mujahid/Desktop/MINOR\ Project/spamdetector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Mujahid/Desktop/MINOR\ Project/spamdetector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Mujahid/Desktop/MINOR\ Project/spamdetector/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Mujahid/Desktop/MINOR\ Project/spamdetector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Mujahid/Desktop/MINOR\ Project/spamdetector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Mujahid/Desktop/MINOR\ Project/spamdetector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Mujahid/Desktop/MINOR\ Project/spamdetector/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Mujahid/Desktop/MINOR\ Project/spamdetector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Mujahid/Desktop/MINOR\ Project/spamdetector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Mujahid/Desktop/MINOR\ Project/spamdetector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="spamdetector">
+				<Option output="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/cmake-build-debug/spamdetector.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Mujahid/Desktop/MINOR\ Project/spamdetector/cmake-build-debug/Makefile&quot;  VERBOSE=1 spamdetector"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Mujahid/Desktop/MINOR\ Project/spamdetector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Mujahid/Desktop/MINOR\ Project/spamdetector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Mujahid/Desktop/MINOR\ Project/spamdetector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="spamdetector/fast">
+				<Option output="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/cmake-build-debug/spamdetector.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Mujahid/Desktop/MINOR\ Project/spamdetector/cmake-build-debug/Makefile&quot;  VERBOSE=1 spamdetector/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Mujahid/Desktop/MINOR\ Project/spamdetector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Mujahid/Desktop/MINOR\ Project/spamdetector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Mujahid/Desktop/MINOR\ Project/spamdetector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/a1">
+			<Option target="spamdetector"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/b1">
+			<Option target="spamdetector"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/classifier">
+			<Option target="spamdetector"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/classifier.cpp">
+			<Option target="spamdetector"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/converter">
+			<Option target="spamdetector"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/converter.cpp">
+			<Option target="spamdetector"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/indexing/common_lang_constants.h">
+			<Option target="spamdetector"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/indexing/string_util.h">
+			<Option target="spamdetector"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/pie">
+			<Option target="spamdetector"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/pie.sh">
+			<Option target="spamdetector"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/stemmer">
+			<Option target="spamdetector"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/stemming/danish_stem.h">
+			<Option target="spamdetector"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/stemming/dutch_stem.h">
+			<Option target="spamdetector"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/stemming/english_stem.h">
+			<Option target="spamdetector"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/stemming/finnish_stem.h">
+			<Option target="spamdetector"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/stemming/french_stem.h">
+			<Option target="spamdetector"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/stemming/german_stem.h">
+			<Option target="spamdetector"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/stemming/italian_stem.h">
+			<Option target="spamdetector"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/stemming/norwegian_stem.h">
+			<Option target="spamdetector"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/stemming/portuguese_stem.h">
+			<Option target="spamdetector"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/stemming/russian_stem.h">
+			<Option target="spamdetector"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/stemming/spanish_stem.h">
+			<Option target="spamdetector"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/stemming/stemming.h">
+			<Option target="spamdetector"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/stemming/swedish_stem.h">
+			<Option target="spamdetector"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/test_english.cpp">
+			<Option target="spamdetector"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/train_prob.h">
+			<Option target="spamdetector"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/train_prob_ham">
+			<Option target="spamdetector"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/train_prob_spam">
+			<Option target="spamdetector"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/trainning_data.cpp">
+			<Option target="spamdetector"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/utilities/debug_logic.h">
+			<Option target="spamdetector"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/utilities/safe_math.h">
+			<Option target="spamdetector"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/utilities/utilities.h">
+			<Option target="spamdetector"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Mujahid/Desktop/MINOR Project/spamdetector/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
